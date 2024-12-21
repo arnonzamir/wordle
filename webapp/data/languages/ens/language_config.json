@@ -1,0 +1,41 @@
+{
+    "language_code": "en",
+    "name": "Sunbit",
+    "name_native": "Sunbit",
+    "meta": {
+        "locale": "ens",
+        "title": "The daily game of names",
+        "description": "Guess the hidden name in 6 tries (or less). A new puzzle is available each day!",
+        "keywords": "sunbit, english, puzzle, word, play, game, online, guess, daily"
+    },
+    "text": {
+        "subheader": "Sunbit",
+        "next_word": "Next word ",
+        "no_attempts": "You haven't tried any words yet! ",
+        "share": "Share ",
+        "notification-copied": "Copied to clipboard ",
+        "notification-partial-word": "Please enter a full word "
+    },
+    "language_code_3": "",
+    "language_code_iso_639_3": "",
+    "right_to_left": "false",
+    "help": {
+        "title": "How to Play",
+        "title_2": "Examples",
+        "close": "Close this message",
+        "text_1_1_1": "Guess the",
+        "text_1_1_2": "in six tries or less.",
+        "text_1_2": "Each guess must be a valid five letter word. Press the enter button to submit your guess.",
+        "text_1_3": "After you guess, the tiles will change color to indicate which letters of your word are correct or almost correct.",
+        "text_2_1": "is in the word and in the correct location!",
+        "text_2_2": "is in the word, but not in the correct location.",
+        "text_2_3": "is not present in the word you are trying to guess.",
+        "text_3": "A new name will be available each day!",
+        "text_4": "each 5 letter name of someone from sunbit tech group is a valid guess",
+        "text_4_1": "if somebody's name is longer than 5 letters, you can use the first 5 letters of their name",
+        "text_4_2": "if somebody's name is shorter than 5 letters, you can add letters from their surname to make it 5 letters",
+        "text_4_3": "for example: if the name is 'John Smith', you can use 'JOHNS' or 'SMITH' as a guess",
+        "text_4_4": "if someone's name is 'Alberto', you can use 'ALBER' as a guess"
+        
+    }
+}
